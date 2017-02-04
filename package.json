@@ -1,7 +1,7 @@
 {
-  "name": "react-native-now-play",
-  "version": "0.0.1",
-  "description": "Add information on lockscreen and control playing music",
+  "name": "react-native-player-lockscreen",
+  "version": "0.0.0",
+  "description": "Adds play information to the lockscreen",
   "keywords": [
     "react",
     "react-native",
@@ -12,9 +12,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tanguyantoine/react-native-music-control.git"
+    "url": "git+https://github.com/takuu/react-native-player-lockscreen.git"
   },
-  "author": "Tanguy Antoine",
+  "author": "Taku Uechi",
   "peerDependencies": {
     "react-native": ">=0.33.0"
   },

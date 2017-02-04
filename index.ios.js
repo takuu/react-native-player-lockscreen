@@ -1,7 +1,3 @@
-/**
- * @providesModule MusicControl
- * @flow
- */
 'use strict';
 
 import { NativeModules, DeviceEventEmitter } from 'react-native';

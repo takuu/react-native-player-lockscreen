@@ -1,8 +1,8 @@
 //
 //  LockScreenManager.h
-//  react-native-now-play
+//  react-native-player-lockscreen
 //
-//  Created by Taku Uechi on 2/3/17.
+//  Created by Taku Uechi on 2/4/17.
 //
 //
 
