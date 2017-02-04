@@ -1,13 +1,8 @@
-//
-//  LockScreenManager.h
-//  react-native-player-lockscreen
-//
-//  Created by Taku Uechi on 2/4/17.
-//
-//
+#import "RCTBridgeModule.h"
+#import <MediaPlayer/MediaPlayer.h>
+#import <MediaPlayer/MPNowPlayingInfoCenter.h>
+#import <MediaPlayer/MPMediaItem.h>
 
-#ifndef LockScreenManager_h
-#define LockScreenManager_h
+@interface LockScreenManager : NSObject <RCTBridgeModule>
 
-
-#endif /* LockScreenManager_h */
+@end

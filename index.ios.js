@@ -1,7 +1,7 @@
 'use strict';
 
 import { NativeModules, DeviceEventEmitter } from 'react-native';
-const NativeMusicControl = NativeModules.MusicControlManager;
+const NativeMusicControl = NativeModules.LockScreenManager;
 
 /**
  * High-level docs for the MusicControl iOS API can be written here.
