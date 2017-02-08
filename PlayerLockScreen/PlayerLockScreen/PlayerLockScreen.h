@@ -3,6 +3,6 @@
 #import <MediaPlayer/MPNowPlayingInfoCenter.h>
 #import <MediaPlayer/MPMediaItem.h>
 
-@interface LockScreenManager : NSObject <RCTBridgeModule>
+@interface PlayerLockScreen : NSObject <RCTBridgeModule>
 
 @end
