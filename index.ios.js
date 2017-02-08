@@ -11,7 +11,7 @@ var subscription = null;
 
 var MusicControl = {
     setNowPlaying: function(info){
-        NativeMusicControl.setNowPlayingTemp(info)
+        NativeMusicControl.setNowPlaying(info)
     }
 };
 
